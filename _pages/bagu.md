@@ -1,3 +1,13 @@
+---
+permalink: /bagu/
+title: "bagu"
+author_profile: true
+redirect_from: 
+  - /bagu/
+  - /bagu.html
+---
+
+
 # 机器学习八股文
 
 ## Machine Leaning
